@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "6566BE49-895B-427A-B56D-302DFC51DDDE",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:EpicMath-XCUITest.xcodeproj",
+        "identifier" : "54EE48FB29C1E0C90074B620",
+        "name" : "UIEpicMathTests"
+      }
+    }
+  ],
+  "version" : 1
+}
